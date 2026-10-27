@@ -1,0 +1,99 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "country": "spain",
+      "city": "Seville",
+      "title": "Vegetarian tapas walk",
+      "duration": "3 hours",
+      "price": 35,
+      "currency": "€",
+      "why": "Made for Indian visitors: every stop has vegetarian dishes, and your host explains what is in each one.",
+      "image": "assets/img/sevilla-plaza.jpg"
+    },
+    {
+      "id": 2,
+      "country": "spain",
+      "city": "Granada",
+      "title": "The Alhambra with a local historian",
+      "duration": "2.5 hours",
+      "price": 40,
+      "currency": "€",
+      "why": "Discover the Moorish history of Spain and compare it with the Mughal architecture you know from India.",
+      "image": "assets/img/sevilla-plaza.jpg"
+    },
+    {
+      "id": 3,
+      "country": "spain",
+      "city": "Barcelona",
+      "title": "Paella cooking class",
+      "duration": "3 hours",
+      "price": 55,
+      "currency": "€",
+      "why": "Cook paella with a vegetarian option, then eat it with your host’s family.",
+      "image": "assets/img/product-paella.jpg"
+    },
+    {
+      "id": 4,
+      "country": "spain",
+      "city": "Madrid",
+      "title": "Flamenco rhythm workshop",
+      "duration": "1.5 hours",
+      "price": 30,
+      "currency": "€",
+      "why": "Learn the claps and footwork, and spot the similarities with Indian classical dance.",
+      "image": "assets/img/hero-flamenco.jpg"
+    },
+    {
+      "id": 5,
+      "country": "india",
+      "city": "Jaipur",
+      "title": "Block-printing workshop",
+      "duration": "2.5 hours",
+      "price": 1800,
+      "currency": "₹",
+      "why": "Made for Spanish visitors: print your own fabric and hear the stories behind each pattern.",
+      "image": "assets/img/maker-printing.jpg"
+    },
+    {
+      "id": 6,
+      "country": "india",
+      "city": "Delhi",
+      "title": "Old Delhi street food walk",
+      "duration": "3 hours",
+      "price": 1500,
+      "currency": "₹",
+      "why": "Mild-spice options and a local guide who shows you what is safe and tasty to eat.",
+      "image": "assets/img/hero-jaipur.jpg"
+    },
+    {
+      "id": 7,
+      "country": "india",
+      "city": "Varanasi",
+      "title": "Sunrise on the Ganges",
+      "duration": "2 hours",
+      "price": 1600,
+      "currency": "₹",
+      "why": "Your guide explains the morning rituals and the etiquette before you arrive.",
+      "image": "assets/img/jaipur-culture.jpg"
+    },
+    {
+      "id": 8,
+      "country": "india",
+      "city": "Kerala",
+      "title": "Home-style cooking class",
+      "duration": "3 hours",
+      "price": 2000,
+      "currency": "₹",
+      "why": "Learn the spices, cook with a local family and take the recipe cards home.",
+      "image": "assets/img/product-saffron.jpg"
+    }
+  ],
+  "bookings": [],
+  "hostApplications": [],
+  "fee": 0.15,
+  "users": [],
+  "sessions": [],
+  "signups": [],
+  "newsletter": []
+}
