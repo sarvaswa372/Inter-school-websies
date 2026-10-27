@@ -1,8 +1,0 @@
-{
-  "name": "interschool-computer",
-  "version": "1.0.0",
-  "description": "AZAFRAN: India x Espana cultural exchange site with bazaar, bookable experiences and accounts",
-  "main": "Bakend/server.js",
-  "scripts": { "start": "node Bakend/server.js", "test": "node Bakend/check.js" },
-  "engines": { "node": ">=18" }
-}
